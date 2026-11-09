@@ -1,0 +1,8 @@
+### Get order by ID
+GET http://localhost:3000/orders/1
+
+### Get all orders
+GET http://localhost:3000/products
+
+### Get product by ID
+GET http://localhost:3000/products/33

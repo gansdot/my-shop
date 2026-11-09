@@ -66,3 +66,5 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 crash.log
 override.tf
 override.tf.json
+terraform/*.tfvars
+!terraform/*.tfvars.example

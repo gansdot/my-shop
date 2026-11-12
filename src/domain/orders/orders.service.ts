@@ -1,6 +1,6 @@
 import { Injectable } from "@nestjs/common";
 import { UsersService } from '../users/users.service.js';
-import { AppConfigService } from '../config/app-config.service.js';
+import { AppConfigService } from '../../config/app-config.service.js';
 import { log } from "console";
 
 @Injectable()
